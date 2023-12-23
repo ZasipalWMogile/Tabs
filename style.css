@@ -1,0 +1,27 @@
+.btn{
+    padding: 20px;
+    border-radius: 20px;
+    background: #D8BFD8;
+    border: 3px solid #800080;
+    cursor: pointer;
+}
+
+.tabs{
+    text-align: center;
+}
+
+.tabs{
+    text-align: center;
+}
+
+.tabs_item{
+    display: none;
+}
+
+.active-tab{
+    display: block;
+}
+
+.active-tab{
+    background: #D8BFD8;
+}
